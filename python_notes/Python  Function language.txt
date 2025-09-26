@@ -1,0 +1,29 @@
+Python : Function language
+we can use every where 
+
+SE: Desktop apps
+
+
+network apps ,AI ,DE, IOT, Blockchain
+
+python features:
+
+1. Simple and easy to learn
+2. Open Source
+3. Platform independent
+PVM(python engine)
+4. Portability 
+5. Dynamically typed
+(ex: x=109 {'x' type will become 'int'})
+6. Procedure oriented and object oriented
+7. Interpreted
+INTERPRETER: COMPILATION : if compilation fails:
+errors...
+
+if compilation success: PVM responsible to execute
+
+8: EXNTNSIVE LIBRARY:
+
+LIMITATIONS:IT is interpreted language
+
+
